@@ -1,0 +1,1 @@
+[[Luigi XIV]] è chiamato anche "Re Sole", in quanto tutta la Francia, come i pianeti, ruotava attorno a lui.

@@ -1,0 +1,2 @@
+Chiunque andava contro [[Luigi XIV]] era direttamente contro dio, per questa ragione il re decise di stabilire il supplizio pubblico.
+Durante l'esecuzione la vittima sarebbe stata uccisa lentamente e dolorosamente, come una tortura, la quale sarebbe stata considerata un'anticipazione di ciò che gli aspettava all'inferno.

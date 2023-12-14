@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "e1a876c5c222f737",
+    "type": "split",
+    "children": [
+      {
+        "id": "e67a823e55791daf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96b7d21421d68131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rivoluzione Americana/Rivoluzione Americana - Timeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "441cdccbba66e2b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2d58c2ab43bf557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd2451a5e4a5bd38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcb1bc0334918afa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bf8e7a5df3a9a70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7c75f2e99473d83",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cbbdc1f6da48f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f6f8ab77cc29567",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rivoluzione Americana/Rivoluzione Americana - Timeline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a74ad8b1af220eea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rivoluzione Americana/Rivoluzione Americana - Timeline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "611203437e62c2b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "304882ec39101dc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rivoluzione Americana/Rivoluzione Americana - Timeline.md"
+              }
+            }
+          },
+          {
+            "id": "fea2cb3e2dad38d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "96b7d21421d68131",
+  "lastOpenFiles": [
+    "Rivoluzione Americana/Colonie Americane.md",
+    "Rivoluzione Americana/Rivoluzione Americana - Timeline.md",
+    "Rivoluzione Industriale Inglese/Inghilterra - XVIII Secolo.md",
+    "Regno di Francia/Anna d'Austria.md",
+    "Regno di Francia",
+    "Untitled.md",
+    "Regno di Francia/Supplizio Pubblico.md",
+    "Regno di Francia/Reggia di Versailles.md",
+    "Regno di Francia/Re Sole.md",
+    "Regno di Francia/Primo Ministro.md",
+    "Regno di Francia/Polizia Moderna.md",
+    "Regno di Francia/Maria Teresa d'Asburgo.md",
+    "Regno di Francia/Luigi XIV.md",
+    "Regno di Francia/Luigi XIII.md",
+    "Regno di Francia/Lettres du Cachet.md",
+    "Regno di Francia/Editto di Nantes.md",
+    "Regno di Francia/Fronde.md",
+    "Regno di Francia/Dragoni.md",
+    "Regno di Francia/Corte dei Miracoli.md",
+    "Regno di Francia/Chiesa Gallicana.md",
+    "Regno di Francia/Cardinale Mazzarino.md",
+    "Regno di Francia/Assemblea degli Stati Generali.md",
+    "Rivoluzione Americana",
+    "Rivoluzione Industriale Inglese",
+    "Frode.md"
+  ]
+}

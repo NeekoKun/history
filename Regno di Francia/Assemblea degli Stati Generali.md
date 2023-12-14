@@ -1,0 +1,2 @@
+Assemblea dei capi (Generali) delle 3 classi sociali francesi (Stati).
+Questa assemblea ha lo scopo parlamentare e dovrebbe quindi limitare il potere del re, tuttavia è debole e permette a [[Luigi XIV]] di ottenere il potere assoluto sulla Francia.

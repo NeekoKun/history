@@ -1,0 +1,3 @@
+- 1601 - 1643
+- Sposa [[Anna d'Austria]]
+- Padre di [[Luigi XIV]]

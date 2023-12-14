@@ -1,0 +1,1 @@
+Le Fronde di Parigi sono state delle guerre civili avvenute durante il periodo di reggenza di [[Luigi XIV]]. Durante queste, I nobili, [[Assemblea degli Stati Generali]] e buona parte del popolo si scatenarono contro la reggia regale (al tempo ancora a Parigi), e la famiglia regale era obbligata a fuggire verso regge esterne.

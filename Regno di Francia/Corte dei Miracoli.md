@@ -1,0 +1,2 @@
+Questa zona malfamata di Parigi è così chiamata perché la notte, tutte le "malattie" dei mendicanti parigini vanno a svanire, per ricomparire il mattino successivo.
+Qui l'ordine sociale è invertito, ed in cima è chi vive più in miseria.

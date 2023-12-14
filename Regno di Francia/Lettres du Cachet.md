@@ -1,0 +1,2 @@
+Durante il regno di [[Luigi XIV]], il re si considerava un emissario diretto di Dio, e l'incarnazione di Gesù. Per questa ragione ogni offesa o contraddizione alla sua persona era considerata eresia e punita, tipicamente, con la morte o la reclusione.
+Durante questo periodo i nobili erano soliti incastrare avversari o nemici mandando una lettera accusatoria anonima, accusatoria, al re, il quale procedeva ad arrestare, solamente sul dubbio, la vittima.

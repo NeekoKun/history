@@ -1,0 +1,2 @@
+Primo Ministro e co-reggente di [[Luigi XIV]], si occupa di aiutare la gestione del regno durante l'infanzia del piccolo re ed ad insegnarli la gestione dello stato.
+Durante le [[Fronde]], aiuta la famiglia reale a fuggire da palazzo e nascondersi da Parigi.
