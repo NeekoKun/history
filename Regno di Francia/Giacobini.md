@@ -1,0 +1,4 @@
+- Club di media borghesia
+- Originariamente politicamente moderati
+- Diventano repubblicani dopo la fuga di [[Luigi XVI]]
+	- Si staccano i [[Foglianti]] ed i [[Cordiglieri]]

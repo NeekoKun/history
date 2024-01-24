@@ -1,0 +1,11 @@
+- 3 Cittadini
+	- Cittadini Passivi
+		- Poveri
+		- Non possono votare
+	- Cittadini Attivi
+		- Possono Votare
+	- Cittadini Eleggibili
+		- Possiedono Territorio
+		- Possono essere eletti
+- I sovraintendenti degli 83 dipartimenti sono corrotti
+	- Vengono resi eleggibili

@@ -1,0 +1,4 @@
+- Medico, Scienziato, Intellettuale
+- Cultore di Robespierre e Rousseau
+- Vuole applicare le idee di [[Cesare Beccaria]]
+- Fonda il Giornale *"l'Ami du Peuple"*

@@ -1,0 +1,2 @@
+- Avvocato e Funzionario dell'Antico Regime
+	- Rimane legato alla corte

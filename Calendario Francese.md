@@ -1,0 +1,4 @@
+- Gli anni partono dal 22/09/1792
+- Tutti i mesi durano 30 giorni
+	- I nomi derivano dal clima
+- Vengono abolite le Domeniche e le festività

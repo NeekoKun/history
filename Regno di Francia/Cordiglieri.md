@@ -1,0 +1,2 @@
+- Capitanati da Hebert, [[Danton]] e [[Marat]]
+- Sono repubblicani a vogliono anche diverse riforme sociali

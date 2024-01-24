@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e67a823e55791daf",
+        "id": "a66af1147101ddf8",
         "type": "tabs",
         "children": [
           {
-            "id": "96b7d21421d68131",
+            "id": "811d6918c0d93ce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rivoluzione Americana/Rivoluzione Americana - Timeline.md",
+                "file": "Regno di Francia/Timeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "e7c75f2e99473d83",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rivoluzione Americana/Rivoluzione Americana - Timeline.md",
+                "file": "Regno di Francia/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rivoluzione Americana/Rivoluzione Americana - Timeline.md",
+                "file": "Regno di Francia/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rivoluzione Americana/Rivoluzione Americana - Timeline.md"
+                "file": "Regno di Francia/Timeline.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -153,35 +155,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "timeline-view:Open timeline view": false
     }
   },
-  "active": "96b7d21421d68131",
+  "active": "811d6918c0d93ce5",
   "lastOpenFiles": [
-    "Rivoluzione Americana/Colonie Americane.md",
-    "Rivoluzione Americana/Rivoluzione Americana - Timeline.md",
-    "Rivoluzione Industriale Inglese/Inghilterra - XVIII Secolo.md",
+    "Calendario Francese.md",
+    "Regno di Francia/Timeline.md",
+    "Regno di Francia/Costituzione.md",
+    "Regno di Francia/Club.md",
+    "Regno di Francia/Giacobini.md",
+    "Regno di Francia/Cordiglieri.md",
+    "Regno di Francia/Danton.md",
+    "Regno di Francia/Marat.md",
+    "Regno di Francia/Foglianti.md",
+    "Regno di Francia/Luigi XVI.md",
+    "Regno di Francia/Dichiarazione dei Diritti dell'Uomo e del Cittadino.md",
     "Regno di Francia/Anna d'Austria.md",
+    "Regno di Francia/Supplizio Pubblico.md",
+    "Regno di Francia/Maria Teresa d'Asburgo.md",
+    "Regno di Francia/Luigi XIV.md",
+    "Rivoluzione Americana/Rivoluzione Americana - Timeline.md",
+    "Rivoluzione Americana/Colonie Americane.md",
+    "Rivoluzione Industriale Inglese/Inghilterra - XVIII Secolo.md",
     "Regno di Francia",
     "Untitled.md",
-    "Regno di Francia/Supplizio Pubblico.md",
     "Regno di Francia/Reggia di Versailles.md",
     "Regno di Francia/Re Sole.md",
     "Regno di Francia/Primo Ministro.md",
     "Regno di Francia/Polizia Moderna.md",
-    "Regno di Francia/Maria Teresa d'Asburgo.md",
-    "Regno di Francia/Luigi XIV.md",
     "Regno di Francia/Luigi XIII.md",
     "Regno di Francia/Lettres du Cachet.md",
     "Regno di Francia/Editto di Nantes.md",
-    "Regno di Francia/Fronde.md",
-    "Regno di Francia/Dragoni.md",
-    "Regno di Francia/Corte dei Miracoli.md",
-    "Regno di Francia/Chiesa Gallicana.md",
-    "Regno di Francia/Cardinale Mazzarino.md",
-    "Regno di Francia/Assemblea degli Stati Generali.md",
     "Rivoluzione Americana",
-    "Rivoluzione Industriale Inglese",
-    "Frode.md"
+    "Rivoluzione Industriale Inglese"
   ]
 }
