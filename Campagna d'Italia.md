@@ -1,0 +1,22 @@
+- La francia fornisce a [[Napoleone Bonaparte]] un esercito sgangherato
+- L'Italia e' favorevole alla discesa di napoleone per la propaganda francese
+	- Promette di liberare l'italia dalla monarchia
+- Gli intellettuali italiani lo accolgono
+	- Tra cui [[Ugo Foscolo]]
+- Napoleone conquista Nizza e Savoia
+	- Ottiene ufficialmente i territori nell'Armistizio di Cherasco
+- il 15 Maggio 1795 entra a Milano
+	- Libera dalla monarchia ma chiede tributi al popolo
+- Il Direttorio richiede di Cessare la guerra
+- Napoleone aveva già vinto la chiesa
+	- Pace di Tolentino
+- Napoleone decide di ignorare il direttorio e continuare la sua conquista
+	- Unisce la Repubblica Cispadana e la Lombardia
+		- Repubblica Cisalpina
+- Prende Mantova dove erano stazionati gli austriaci
+- Dichiara guerra a venezia e vince
+- Trattato di Campoformio
+	- 17 Ottobre 1796
+	- Austria rinuncia a Belgio e Renania
+	- Ottiene Venezia
+- In Italia sorgono diverse repubbliche

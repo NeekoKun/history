@@ -1,0 +1,18 @@
+- Istituito dalla [[Costituzione dell'Anno III]].
+- Governo
+	- Minacciato dai filo-monarchici a destra e dai giacobini a sinistra
+	- Popolo in malcontento
+	- Francois-Noel Babeuf
+		- Chiamato "Gracco" come i romani
+		- Uguaglianza tra gli uomini
+		- Idealizza un sistema comunista
+		- Considera ingiuste le differenze di reddito
+		- Vuole una dittatura
+			- Influenzerà poi Marx e Lenin
+		- Promuove la "Congiuro degli Eguali"
+		- Arrestato e Ucciso
+		- Verra' poi seguito do Filippo Buonarroti
+	- Attacca l'Austria
+		- Vogliono ricchezze dai territori annessi
+		- Attaccano da Italia e Renania
+		- [[Campagna d'Italia]] assegnata a [[Napoleone Bonaparte]]

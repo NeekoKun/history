@@ -1,0 +1,10 @@
+- Promossa l'Agosto del 1795
+- Massima libertà sociale
+- Cittadini uguali di fronte alla legge
+- Suffragio universale eliminato
+	- Diventa a criterio censitorio
+	- Riservato ai maggiorenni che pagavano un'imposta sul reddito
+- Separazione dei poteri per evitare Robespierre 2.0
+	- Potere Legislativo in mano ad un **Sistema Bicamerale**
+	- Potere Esecutivo in mano ad un **Direttorio di 5 Membri**
+		- Un membro viene sostituito su base annua

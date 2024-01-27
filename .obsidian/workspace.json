@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regno di Francia/Timeline.md",
+                "file": "Barras.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regno di Francia/Timeline.md",
+                "file": "Barras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regno di Francia/Timeline.md",
+                "file": "Barras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regno di Francia/Timeline.md"
+                "file": "Barras.md"
               }
             }
           },
@@ -161,8 +161,13 @@
   },
   "active": "811d6918c0d93ce5",
   "lastOpenFiles": [
-    "Calendario Francese.md",
     "Regno di Francia/Timeline.md",
+    "Barras.md",
+    "Direttorio.md",
+    "Campagna d'Italia.md",
+    "Costituzione dell'Anno III.md",
+    "Regno di Francia/Gioventù Dorata.md",
+    "Calendario Francese.md",
     "Regno di Francia/Costituzione.md",
     "Regno di Francia/Club.md",
     "Regno di Francia/Giacobini.md",
@@ -183,11 +188,6 @@
     "Untitled.md",
     "Regno di Francia/Reggia di Versailles.md",
     "Regno di Francia/Re Sole.md",
-    "Regno di Francia/Primo Ministro.md",
-    "Regno di Francia/Polizia Moderna.md",
-    "Regno di Francia/Luigi XIII.md",
-    "Regno di Francia/Lettres du Cachet.md",
-    "Regno di Francia/Editto di Nantes.md",
     "Rivoluzione Americana",
     "Rivoluzione Industriale Inglese"
   ]

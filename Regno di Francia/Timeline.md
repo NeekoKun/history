@@ -57,4 +57,20 @@
 + 27 Luglio 1794
 + Colpo di Stato
 + Viene abbattuto Robespierre il "9 del Termidoro", ma oramai aveva gia distrutto la democrazia
+
++ 1795 - 1796
++ Borghesia regna
++ Vengono presi provvedimenti economici a favore della riccca borghesia, come la liberazione dei commerci, e comincia la persecuzione dei Giacobini.
+
++ 12 Novembre 1794
++ Il club giacobino si scioglie
++ Dopo la scioltura del club giacobino si verifica il fenomeno della [[gioventu' dorata]], un'associazione di ragazzi borghesi controrivoluzionari. Vengono allentate le leggi contro i controrivoluzionari ma viene proibita la manifestazione contro la repubblica. Intato le prooteste del popolo contro l'inflazione vengono reperesse nel sangue. Militarmente la Francia attacca l'Olanda per saccheggiare i territori
+
++ Agosto 1795
++ Nuova Costituzione
++ Viene promossa una nuova costituzione detta [[Costituzione dell'Anno III]], la quale istituisce il [[Direttorio]].
+
++ 4 Settembre 1797
++ Coup d'Etat
++ Colpo di stato del "18 Fruttidoro", il potere dal direttorio passa ad un triumvirato composto da [[Barras]], La Ravelliere-Lepavx, Reubell
 ```
