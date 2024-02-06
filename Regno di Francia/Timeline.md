@@ -73,4 +73,12 @@
 + 4 Settembre 1797
 + Coup d'Etat
 + Colpo di stato del "18 Fruttidoro", il potere dal direttorio passa ad un triumvirato composto da [[Barras]], La Ravelliere-Lepavx, Reubell
+
++ bho
++ bho
++ bho
+
++ 
++ [[Codice Civile]]
++ Napoleone vuole organizzare la Francia ed i territori conquistati, e per questa ragione inventa il [[Codice Civile]]
 ```

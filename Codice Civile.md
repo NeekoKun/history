@@ -1,0 +1,31 @@
+- Ideato da Napoleone Bonaparte
+- Richiede anni di preparazione
+- Comprende
+	- Uguaglianza Giuridica
+	- Non vuole l'uguaglianza sociale
+	- Libertà Religiosa
+	- Reinserisce il Calendario Gregoriano
+	- Promuove la Laicità dello Stato
+	- Libertà Individuale
+	- Da molta importanza alla famiglia
+		- Nucleo sociale alla base dello stato
+		- A base patriarcale
+	- Gestisce l'ereditarietà
+		- Abolisce il Fede Commesso
+	- Gestisce i rapporti tra coniugi
+		- Marito deve proteggere la famiglia
+		- Moglie deve obbedire al marito
+		- Marito deve amministrare le proprietà
+	- Al matrimonio devono scegliere tra comunione o divisione dei beni
+	- Accetta il divorzio
+		- Marito può divorziare in caso di adulterio
+		- Moglie se il marito porta a casa l'amante
+		- Anche il divorzio consensuale e' accettato
+	- Ferma la politica di scristianizzazione
+		- Nomina il cattolicesimo "Religione della Maggioranza"
+		- Riallaccia i rapporti con il Papa
+	- Riforma la scuola
+		- Ragazze sono minorate mentali
+		- Al massimo puoi insegnarli principi religiosi
+- Btw a Beethoven piace molto e li dedica la 3^ Sinfonia
+	- Poi basta quando Napoleone diventa Imperatore

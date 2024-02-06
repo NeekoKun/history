@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barras.md",
+                "file": "Codice Civile.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barras.md",
+                "file": "Codice Civile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Barras.md",
+                "file": "Codice Civile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barras.md"
+                "file": "Codice Civile.md"
               }
             }
           },
@@ -162,12 +162,13 @@
   "active": "811d6918c0d93ce5",
   "lastOpenFiles": [
     "Regno di Francia/Timeline.md",
-    "Barras.md",
-    "Direttorio.md",
-    "Campagna d'Italia.md",
-    "Costituzione dell'Anno III.md",
+    "Codice Civile.md",
+    "Regno di Francia/Calendario Francese.md",
+    "Regno di Francia/Barras.md",
+    "Regno di Francia/Direttorio.md",
+    "Regno di Francia/Campagna d'Italia.md",
+    "Regno di Francia/Costituzione dell'Anno III.md",
     "Regno di Francia/Gioventù Dorata.md",
-    "Calendario Francese.md",
     "Regno di Francia/Costituzione.md",
     "Regno di Francia/Club.md",
     "Regno di Francia/Giacobini.md",
@@ -187,7 +188,6 @@
     "Regno di Francia",
     "Untitled.md",
     "Regno di Francia/Reggia di Versailles.md",
-    "Regno di Francia/Re Sole.md",
     "Rivoluzione Americana",
     "Rivoluzione Industriale Inglese"
   ]
