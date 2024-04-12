@@ -27,5 +27,5 @@
 	- Riforma la scuola
 		- Ragazze sono minorate mentali
 		- Al massimo puoi insegnarli principi religiosi
-- Btw a Beethoven piace molto e li dedica la 3^ Sinfonia
+- a Beethoven piace molto e gli dedica la 3^ Sinfonia
 	- Poi basta quando Napoleone diventa Imperatore

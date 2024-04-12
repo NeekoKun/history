@@ -1,0 +1,37 @@
+## Schieramenti Politici
+- Liberali
+	- Classe rappresentante: Borghesia
+	- 2 Categorie
+		- Liberali Moderati
+			- Suffragio Censitario
+			- Liberismo Economico
+		- Liberali Democratici
+			- Suffragio Universale
+			- Autoritarismo Economico
+- Cattolici
+	- Classe rappresentante: nessuna
+	- Cercano la collaborazione tra Imprenditore e Operaio
+	- Chiedono l'intervento dello stato nell'uguaglianza sociale
+	- Sono in netta minoranza
+- Socialisti
+	- All'Epoca uguali ai Comunisti
+	- Classe rappresentante: Operai
+	- Divisi in Categorie
+		- Minimalisti
+			- Riformisti
+			- Aderenti ad un programma minimo
+		- Massimalisti
+			- Rivoluzionari
+			- Aderenti ad un programma Radicale
+		- Divisi dall'approvazione del **Programma di Erfurt**
+			- Partito Socialista Tedesco
+			- Divisi in Minimale e Massimale
+			- Composta da riforme e rivoluzioni
+	- Nasce il [[PSI]]
+- Anarchici
+	- Fondato da Pierre-Joseph Proudhon
+		- Scrisse "*Che cos'e' la Proprietà*"
+	- Classe rappresentante: Disoccupati e Braccianti Agricoli
+	- Contro il Governo
+		- Pensano che l'uomo possa autogovernarsi
+	- Vogliono abolire lo stato liberale tramite le rivolte

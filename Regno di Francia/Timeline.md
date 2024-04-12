@@ -10,25 +10,86 @@
 
 + 5 Ottobre 1789
 + Luigi XVI a Parigi
-+ Nascono gli [[Orleanisti]], [[Luigi XVI]] viene riportato a Parigi dalle donne ed i bambini
++ Nascono gli [[Orleanisti]], [[Luigi XVI]] viene riportato a Parigi dalle donne ed i bambini in quanto si rifiuta di abolire i privilegi feudali
+
++ 10 Ottobre 1789
++ Re dei Francesi
++ Luigi viene forzatamente proclamato "Re dei Francesi"
 
 + 2 Novembre 1789
 + Addio Clero
 + Roquisizione beni del clero, abolizione degli ordini non dediti al lavoro.<br>Vengono inventati gli assegnati, che falliscono per inflazione, ed i membri del clero diventano funzionari nazionali.<br>Papa Pio VI Condanna la costitiuzione, e la Francia si divide tra preti Refrattari e Costituzionali.<br>Sorgono i primi [[Club]]
 
++ 1790
++ Costituzione del Clero
++ Il clero viene eletto dai cittadini, lavora per lo stato e giura lealta' sulla costituzione
+
++ 20 Giugno 1791
++ Fuga
++ Re Luigi viene trovato travestito in fuga a Varennes
+
 + 3 Settembre 1791
 + Costituzione
-+ Viene proposta uno prima [[Costituzione]], ma per essere accettata si dovette scendere a compromessi.<br>Una volta accettata la costituzione l'assemblea nazionale costituente viene sciolta e nasce l'Assemblea Legislativa
++ Viene proposta uno prima [[Costituzione]], ma per essere accettata si dovette scendere a compromessi.
++ 1 Ottobre 1791
++ Assemblea Legislaniva
++ Una volta accettata la costituzione l'Assemblea Costituzionale diventa Assemblea Legislativa
+
++ 2 Febbraio 1792
++ Abolizione dei diritti Feudali
++ l'Assemblea Legislativa, costretta dalle insorgenze popolari nelle campagne, abolisce gratuitamente i diritti feudali
+
++ Aprile 1792
++ dichiarazione di Guerra
++ l'Assemblea Legislativa dichiara guerra, prendono il cazzo, odiano Maria Antonietta. 
+
++ 20 Giugno 1792
++ Marcia su Tuileries
++ Francia marcia su Tuileries e brinda alla rivoluzione
+
++ 25 Luglio 1792
++ Proclama del duca di Brunswick
++ Il Duca proclama che avrebbe distrutto Parigi if ( toccano il re )
+
++ 10 Agosto 1792
++ Comune
++ Fondazione di un Comune Rivoluzionario, il Re si rifugia all'Assemblea Legislativa per venire poi arrestato
+
++ Settembre 1792
++ Stragi di settembre
++ Literally stragi in carcere
+
++ 20 Settembre 1792
++ Creazione della [[Convenzione]]
++ 749 deputati, 3 Gruppi: [[Giacobini]] (Comunisti), Montagnardi, Pianura.<br>Vittoria a Valmy
+
++ 21 Settembre 1792
++ Abolizione Manarchia
++ Viene abolita la monarchia e proclamato uno stato repubblicano
+
++ Dicembre 1792
++ Processo alla Monarchia
++ Viene processato e condannato a morte
+
++ 21 Gennaio 1793
++ Morte di Luigi XVI
++ Viene eseguita la sentenza del Re
 
 + 16 Ottobre 1793
 + Morte Maria Antonietta
++ autoesplicativo
+
++ 16 Ottobre 1793
++ Cose
 + Luigi Carlo viene chiuso nella torre del Delfino, viene soccorso da Varra' ma e' molto malato
+
 + 8 Giugno 1795
 + Morte di Luigi Carlo
 + Luigi muore nella torre delfino di scrofolosi, viene seppellito in un luogo sconosciuto dando vita a 43 falsi ed il suo cuore, asportato, non trova pace fino al 1975
+
 + 1792
 + Conquiste
-+ L'esercito francese conquista Belgio e Reno, e la francia si divide: I giacobini non vogliono guerra, girondini vogliono espandersi. girondini vincono ed Europa odia la francia, perche' la guerra non risolve niente.
++ L'esercito francese conquista Belgio e Reno, e la francia si divide: I [[Giacobini]] non vogliono guerra, [[Girondini]] vogliono espandersi. [[Girondini]] vincono ed Europa odia la francia, perche' la guerra non risolve niente.
 
 + 1793
 + Guerra in Europa
