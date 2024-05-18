@@ -1,0 +1,4 @@
+- Societa' che eludono la restaurazione
+	- Clandestine
+	- Gerarchiche
+- Prendono come modello la massoneria

@@ -1,0 +1,22 @@
+- Periodo della Restaurazione
+- Nascono le [[Società Segrete]]
+	- In italia la [[Carboneria]]
+	- Falliscono a causa del Principio di Intervento
+		- Tutte tranne quelle Greche
+## Moti
+- Spagnolo
+- Partenopeo
+- Portoghese
+- Greco
+	- Ha successo
+	- Lottano per l'indipendenza ottomana
+	- Forte componente religiosa
+		- Ottengono il supporto della Chiesa Ortodossa
+	- Partecipano diversi intellettuali europei
+		- Tra cui Lord Byron
+	- Si uniscono Francia, Gran Bretagna e Russia
+		- Cercano guadagno economico
+	- Vittoria a Navarino
+		- 1827
+		- Vittoria navale decisiva
+	- Pace di Andrianopoli

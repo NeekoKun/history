@@ -1,0 +1,27 @@
+- Ideologia politica post-restaurazione
+- Ridistribuzione della ricchezza e della proprietà
+- Socialismo inglese
+	- Riformista
+- Socialismo francese
+	- Utopista
+	- Saint-Simon
+		- Vogliono un **Governo di Tecnici**
+	- Fourier
+		- Nuclei Indipendenti esterni alla Società
+	- Blanque
+		- Fabbriche Sociali
+	- Proudhon
+		- Anarchismo
+	- Marx & Engels
+		- "Bisogna trovare la vera causa"
+		- Cause Economiche
+		- 4 Fasi sociali nella storia umana
+			- Comunità Primitiva
+			- Regime della Schiavitù
+			- Società Feudale
+			- Società Capitalistico-Borghese
+		- Storia come Lotta di Classe
+		- Cambiamento dovuto al miglioramento dei mezzi di produzione
+			- Chi sa meglio usarli diventa classe dominante
+## Persone Note
+- Carl Marx

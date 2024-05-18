@@ -1,0 +1,7 @@
+- Francese
+	- Rivolte contro Carlo X
+	- Corona a Luigi Filippo d'Orleans
+	- L'ideologia si espande in tutta europa
+	- Falliscono tutti
+- Belga
+	- Ottengono l'indipendenza dai paesi bassi

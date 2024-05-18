@@ -5,7 +5,7 @@
 		- Liberali Moderati
 			- Suffragio Censitario
 			- Liberismo Economico
-		- Liberali Democratici
+		- [[Liberali Democratici]]
 			- Suffragio Universale
 			- Autoritarismo Economico
 - Cattolici
@@ -13,7 +13,7 @@
 	- Cercano la collaborazione tra Imprenditore e Operaio
 	- Chiedono l'intervento dello stato nell'uguaglianza sociale
 	- Sono in netta minoranza
-- Socialisti
+- [[Socialisti]]
 	- All'Epoca uguali ai Comunisti
 	- Classe rappresentante: Operai
 	- Divisi in Categorie
@@ -23,10 +23,10 @@
 		- Massimalisti
 			- Rivoluzionari
 			- Aderenti ad un programma Radicale
-		- Divisi dall'approvazione del **Programma di Erfurt**
-			- Partito Socialista Tedesco
-			- Divisi in Minimale e Massimale
-			- Composta da riforme e rivoluzioni
+	- Divisi dall'approvazione del **Programma di Erfurt**
+		- Partito Socialista Tedesco
+		- Divisi in Minimale e Massimale
+		- Composta da riforme e rivoluzioni
 	- Nasce il [[PSI]]
 - Anarchici
 	- Fondato da Pierre-Joseph Proudhon

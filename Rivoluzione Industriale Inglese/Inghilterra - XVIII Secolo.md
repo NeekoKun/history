@@ -4,6 +4,23 @@
 - Legame tra economia individuale e protestantesimo
 - Nobiltà e whig non disdegnano gli affari
 
+## Cause
+- Gloriosa Rivoluzione
+	- Miglioramenti Sociale ED Economici
+- Efficiente rete di Trrasporti
+- Surplus di Capitali
+	- Dovuto dall'utilizzo delle recinzioni
+- Migrazione verso i centri abitati
+	- Conseguente profitto industriale e urbanizzazione
+- Mercato Internazionale
+- Materie prime
+- Scoperte Tecnico-Scientifiche
+
+## Rivoluzione Industriale
+- Due periodi
+	- [[Primo Periodo]]
+	- [[Secondo Periodo]]
+
 ## Effetti delle Innovazioni agricole
 - Enclosures favoriscono concentrazione delle terre
 - Investimenti in nuove tecniche agricole
@@ -16,6 +33,8 @@
 	- Macroinvenzioni si spargono per l'Inghilterra
 	- Cultura intellettuale sviluppata
 - Introduzione del cotone nel campo tessile
+	- Invenzione della **Spoletta Volante**
+	- Centralizzazione delle macchine in prossimità di corsi d'acqua
 - Macchina a vapore da Watt
 - Locomotiva a vapore
 - Sviluppo industria siderurgica e mineraria
@@ -34,6 +53,8 @@
 - Crescita dei nuclei urbani
 - Precarie condizioni igieniche
 - Provvedimenti contro il [[Luddismo]]
+- Nascono i Sindacati
+	- Nasce lo Sciopero
 
 ## Gli Intellettuali
 - Adam Smith
