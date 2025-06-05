@@ -1,0 +1,46 @@
+#Belle_Epoque 
+- Sentimento di ==Ottimismo== dettato dalla fine di
+	- Congresso di Vienna
+	- Guerra in Crimea
+	- Guerra franco prussiana
+- Trentennio di pace
+	- Espansione Economica
+		- Imperialismo
+		- Gold Standard
+			- Permette la crescita del Mercato estero
+			- Tuttavia il target era verso altri paesi industrializzati e non altre colonie
+				- Imperialismo indiretto tramite controllo economico
+		- Lavoro
+			- [[Taylorismo]]
+			- [[Fordismo]] 
+			- Mercato di Massa
+			- Colletti Blu e Colletti Bianchi
+		- Società di Massa
+			- Urbanizzazione completata
+			- Le organizzazioni statali iniziano ad essere molto influenti nella società
+			- Si passa da sopravvivere a vivere in consumismo
+		- Scolarizzazione
+			- Scuola Obbligatoria, Pubblica e Gratuita
+			- Società lotta per o propri diritti
+			- Calo dell'analfabetismo
+			- Proliferazione dei Giornali
+	- Espansione Tecnologica
+		- Elettricità
+			- forza motrice nelle fabbriche    
+			- prime centrali elettriche
+			- illuminazione pubblica di grandi città
+			- trasporti urbani (metro e tram)
+		- Chimica
+			- Raffinazione del motore a scoppio e della benzina
+				- Miglioramenti nel settore automobilistico ed aereonautico
+		- Meccanica
+			- Henry Ford diffonde l'automobile
+			- Fratelli Wright compiono il primo volo
+			- Louis Bleriot traversa la manica in aereo
+		- Industrie
+			- Ampliamento dello spazio
+			- fusioni → monopolio / oligopolio  → cartelli o trust
+			- USA → Standard oil company of ohio → ROCKEFELLER
+			- GER → sviluppo industria chimica
+- In Controsenso, si investe nella produzione militare e nella leva di massa
+	- **Si avverte l'arrivo di un Conflitto**

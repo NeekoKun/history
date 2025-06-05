@@ -1,0 +1,19 @@
+#Belle_Epoque
+- Unità d'Italia - 1861
+- Schieramenti politici a Torino (Eletti a **Suffragio Maschile Censitario**)
+	- ==Destra Storica==
+		- Aristocratici Liberi, Laici e Moderati
+		- Suffragio Ristretto
+			- Puntano all'accentramento del Potere
+		- Laicizzazione dello Stato
+		- Liberisti
+		- Successori di Cavour
+	- ==Sinistra Storica==
+		- Piccola e Media borghesia
+		- Patrioti Mazziniani e Garibaldini
+			- **Crispi**
+		- Suffragio universale maschile
+			- Decentramento del Potere
+		- Riduzione delle Imposte
+		- Estensione dell'Istruzione Elementare
+		- Laicità dello Stato

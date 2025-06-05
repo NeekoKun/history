@@ -1,0 +1,6 @@
+- Mira ad ottenere il consenso dei cattolici
+- La chiesa riconosce l'Italia
+- L'Italia riconosce lo stato vaticano alla chiesa
+- Il Cattolicesimo diventa Religione di Stato
+- La religione diventa **fondamento dell'Istruzione**
+- I Vescovi devono essere accettati da Mussolini

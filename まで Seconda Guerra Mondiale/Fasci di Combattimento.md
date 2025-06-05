@@ -1,0 +1,3 @@
+- Gruppi di Fascisti capitanati da Mussolini
+	- Fondati il 23 Marzo 1919
+- Compiono principalmente attacchi agli antifascisti ed agli avversari politici

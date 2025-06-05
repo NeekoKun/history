@@ -1,0 +1,4 @@
+- Gli operai vogliono aumenti salariali ma li sono negati
+	- Sciopero Bianco (Quiet Quitting)
+- Serrata delle Fabbriche
+- Occupazione delle Fabbriche

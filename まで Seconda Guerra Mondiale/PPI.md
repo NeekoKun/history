@@ -1,0 +1,4 @@
+- Partito Popolare Italiano
+	- Partito di Massa
+	- Laico
+	- Costituzionale

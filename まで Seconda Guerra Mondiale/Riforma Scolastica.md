@@ -1,0 +1,6 @@
+- Opera di Giovanni Gentile
+	- Redattore della voce "Fascismo" nelle enciclopedie
+- Il Classico diventa scuola per procedere con gli studi universitari
+- Lo scientifico porta solamente ad università scientifiche
+- Scuole ad Avviamento Professionale per lavorare dai 14 anni
+	- Università solo in casi eccezionali

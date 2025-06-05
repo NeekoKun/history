@@ -1,0 +1,4 @@
+- Trattato firmato il 12 Novembre 1920 da Giolitti
+- Dalmazia va alla Yugoslavia
+- Istria va all'Italia
+- Fiume diviene Stato Libero

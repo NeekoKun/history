@@ -1,0 +1,1 @@
+- URSS accetta di attaccare il Giappone

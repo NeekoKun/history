@@ -1,0 +1,26 @@
+- Politica meno subordinata ai ricchi
+- [[Roosevelt]] stravince le elezioni contro [[Hoover]]
+- Istituzione di un [[Brain Trust]]
+- Abbandono del Liberalismo Economico
+- Punta ad Alzare il reddito Pro-Capite
+	- Riforma del sistema creditizio
+	- AAA: Sussidi in base al reddito
+	- National Industry Recovery Act
+	- Accordi Vincolanti (Diritti del Lavoratore)
+		- Orario Comune ai lavoratori
+		- Max prod
+		- Bando del lavoro infantile ed in nero
+		- Minimi Salariali
+	- Riforma Fiscale
+		- Tassazione Progressiva
+	- Wagner Act
+		- Diritti ai sindacati
+- Crea la Tennessee Valley Authority
+	- Punta allo sfruttamento del bacino idrico del Tennessee
+- Fonda la Work Progress Administration
+	- Genera 8 Milioni di posti di lavoro ex novo
+- Istituisce il Social Security Act
+	- Sussidi per Disoccupati e Pensionati
+- Fonda un Welfare State
+	- Federale
+- Prevede la libera Iniziativa

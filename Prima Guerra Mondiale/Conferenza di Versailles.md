@@ -1,0 +1,19 @@
+- Conferenza di Pace del 18 Gennaio 1919
+- L'Italia ne fa parte ma come vincitrice **Secondaria**
+- Dubbia la divisione dei territori all'Italia
+	- Dovrebbero ricevere le promesse del [[Patto di Londra]]
+	- La Dalmazia vuole unirsi alla Yugoslavia
+- L'Italia rivendica il [[Patto di Londra]] ma allo stesso tempo la nazionalità per prendersi Fiume
+	- Wilson nega ambedue all'Italia
+- La delegazione italiana lascia la conferenza
+- Wilson scrive una Lettera Pubblica al popolo italiano
+	- Nasce il Mito della **"Vittoria Mutilata"**
+- L'Italia torna al tavolo ma troppo tardi
+- Si scioglie il Governo Orlando
+- Sale Nitti
+	- Continue proteste da parte del ceto medio
+	- d'Annunzio conquista Fiume
+- Nitti si dimette
+- Sale Giolitti
+	- Firma il [[Trattato di Rapallo]] il 12 Novembre 1920
+- 

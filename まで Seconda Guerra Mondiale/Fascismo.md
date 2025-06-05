@@ -1,0 +1,100 @@
+- l'Italia ha un debito publico di 90 Miliardi di Lire
+- I grandi investitori guadagnano a discapito della piccola / media borghesia
+	- I soldati non si possono ripagare
+	- Aumenta la differenza tra operai ed impiegati statali
+- Desiderio di Sommossa nei Sindacati
+	- Nasce il [[Bolscevismo Bianco]]
+- Fondazione del [[PPI]] ad opera di [[Don Luigi Sturzo]]
+- Fondazione dei [[Fasci di Combattimento]]
+	- 23 Marzo 1919, Piazza San. Sepolcro, Milano
+	- Inizialmente un centinaio di persone
+
+## Fase San-Sepolcrista
+- I Fasci si occupano della Gestione degli Operai
+	- Vigilanti
+- Estensione del voto alle Donne
+- Proposte nazionaliste
+	- Proteste contro gli stati europei
+	- Istruzione Obbligatoria e Laica
+- I Membri fascisti diventano violenti
+	- Attaccano il giornale "L'Avanti"
+- Fondazione del [[FIOM]]
+	- Comincia il [[Biennio Rosso]]
+- I Politici liberali ignorano i Fasci
+	- Sperano di Potersene servire per arginare le proteste socialiste
+- Giolitti istituisce i **Blocchi Nazionali**
+	- Liste comprensive di Fascisti e Liberali
+	- Vuole un ridimensionamento di [[PSI]] e [[PPI]]
+	- Porta alla scissione del [[PSI]]
+- I Liberali non ottengono la maggioranza
+	- Giolitti si rifiuta di creare un nuovo governo
+		- Assegnato a Bonomi dal Re
+- Mussolini fonda il [[PNF]]
+	- Per controllare l'ala intransigente dei fascisti
+		- **Fallisce**
+- Bonimi è troppo debole
+	- Il Re incarica Luigi Facta
+- Il [[PNF]] afferma dichiara il [[PSI]] un "**Bolscevismo Pericoloso**"
+- 1922: [[Marcia su Roma]]
+
+## Fase Legalitaria
+- Formazione di un Governo di Coalizione
+	- Liberali Giolittiani
+		- Convinti che il [[PSI]] sia un pericolo più grande
+	- Fascisti
+	- [[PPI]]
+		- Tuttavia il **Leader è contrario**
+- Mussolini ne trae vantaggio
+	- Può già contare sul **supporto della corte**
+	- Ha burocratici e militari dalla sua parte
+	- Ha tuttavia solamente 38 deputati fascisti
+- Nel 1922 Mussolini vince le elezioni 18/16
+	- Promette l'arricchimento dei [[Pescecani]]
+	- Promette il Disbando delle Corporazioni Socialiste
+	- Promette di Rivalutare la Lira
+	- Il popolo chiede di fermare la violenza ma i RAS si oppongono
+		- Tra cui Farinacci, istituendo la "Milizia Volontaria per la Sicurezza Nazionale"
+			- Legalizzando le Squadracce
+- Nel 1923 Mussolini perde l'Appoggio del [[PPI]]
+- Mussolini diventa "**Garante della Pace**" agli occhi dell'Europa
+	- Che temeva più i comunisti che i fascisti
+- *Episodio di Giovanni Amendola e Giovanni Minzioni*
+	- Giovani Antifascisti bastonati a Morte
+- *Omicidio di Matteotti*
+	- Il [[PCI]] rifiuta l'idea di uno sciopero generale in favore della Secessione dell'Aventino
+		- non suscita alcuna reazione politica
+- Riforme in preparazione alla Dittatura
+	- [[Riforma Scolastica]]
+	- Il Governo risponde solo al Re
+	- Il Governo assume il potere ==Legislativo== oltre a quello Esecutivo
+	- Abolite le Autonomie Locali
+		- Sono instaurati dei Podestà al posto dei Sindaci
+	- Censura della stampa
+	- Aumento del potere dell'[[OVRA]]
+	- Istituzione di una nuova legge elettorale
+		- Candidati SOLO fascisti
+		- Abolizione dei partiti non fascisti
+		- Devalorizzazione totale del parlamento
+	- Riorganizzazione della Vita Privata (Huxley shit)
+		- Fondazione di Opere valorizzanti
+			- [[OND]]
+			- [[CONI]]
+			- [[GUF]]
+			- [[ONB]]
+- Mussolini si dichiara responsabile dell'Omicidio di Matteotti
+	- Segna l'Inizio della dittatura il ==3 Gennaio 1925==
+
+## Dittatura
+- [[Patti Lateranensi]] (11 Febbraio 1929)
+- Successivamente il Fascismo cerca di Schiacciare la chiesa, ma fallisce
+- Istituzione di Politiche Protezioniste
+	- Mussolini vuole un'Italia **Autosufficiente**
+		- Tuttavia è impossibile per mancanza di materie prime
+- [[Guerra d'Etiopia]] (1935 - 1936)
+	- La Società delle Nazioni sanziona l'Italia, senza effetto
+		- Ne tassa l'esporto di armamenti militari
+		- Tuttavia Mussolini utilizza le sanzioni per fare propaganda
+	- Nel 1936 annuncia la creazione dell'Impero dell'Africa Italiana
+		- Anche se i combattimenti vanno avanti
+- Patto di Amicizia con la Germania
+	- "Asse Roma-Berlino"

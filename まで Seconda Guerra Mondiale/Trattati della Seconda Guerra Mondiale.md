@@ -1,0 +1,37 @@
+- [[Conferenza di Teran]]
+- Scrittura della Carta Atlantica
+	- 8 Punti fondamentali (Paralleli a quelli di Wilson)
+	- Fondato sul Diritto di Autodeterminazione
+- USA escono dall'Isolazionismo
+- 26 Gennaio 1945
+	- 26 Paesi si dichiarano **ONU**
+- [[Conferenza di Yalta]]
+- Germania
+	- Divisa in 4
+	- Sciolta la Wehrmacht
+	- Denazificata
+	- Processo di Norimberga
+- Principio Atlantico
+	- Diritto dei paesi liberati di scegliere per se
+	- Tuttavia smentito da diversi patti segreti
+- Confine tra Europa orientale ed occidentale decisa dai **tank soviet**
+	- US voleva evitare una seconda guerra
+- Si incrina il rapporto US-URSS a causa di disaccordi sul Giappone
+	- Principio della Guerra Fredda
+
+## Italia
+- Situazione Drammatica
+	- Divisa in 2
+- In Carica
+	- [[PSI]]
+	- [[PCI]]
+	- Democrazia Cristiana
+		- MSI
+		- Ex Fascisti
+- Si fonda un primo **Governo di Coalizione**
+- 2 Giugno 1946
+	- Referendum tra Monarchia e Repubblica ^281d82
+		- Nuova Costituzione
+			- Opera di Mediazione tra Partiti
+			- In vigore dal 1 Gennaio 1948
+			- Strettamente ***Antifascista***

@@ -1,0 +1,2 @@
+- Conferenza nella quale è stato deciso lo stato economico della Germania
+- Fu deliberato che la Germania non avrebbe potuto risarcire i debiti di guerra

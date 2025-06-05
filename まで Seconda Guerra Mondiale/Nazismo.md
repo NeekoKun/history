@@ -1,0 +1,22 @@
+- Si Fonda sul [[Mein Kampf]]
+	- **Arianesimo**
+	- Considera le Democrazie **Inferiori**
+		- Manifestano la Decadenza
+	- Anti bolscevismo
+	- Antisemitismo
+- La parola del Fuhrer era Legge
+- Cerca lo "Spazio Vitale"
+	- Conquista dell'Europa Centrale
+	- Slavi e URSS
+- Viene incolpato un Comunista per l'incendio al Reich stag
+	- [[Hitler]] ne approfitta per Nazificare il paese
+- **Notte dei Lunghi Coltelli**
+	- Capo delle SA in disaccordo con l'approccio dittatoriale
+	- Le SS e la Gestapo massacrano le SA
+- Internati diversi cattolici a causa della denuncia di Papa Pio XI
+- Bloccata la scelta di lavoro
+- **Notte dei Cristalli**
+- Scelgono di utilizzare i Campi di Concentramento per il genocidio degli Ebrei
+	- Ottengono il consenso nel 1942 grazie alla pessima situazione economica della Germania
+- Aktion T4
+	- Cacciate le donne con alberi genealogici "Sporchi"

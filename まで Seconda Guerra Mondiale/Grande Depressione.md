@@ -1,0 +1,21 @@
+- In seguito al [[Crollo di Wall Street]], l'america si trova in crisi
+- Viene abbandonato il [[Gold Standard]]
+	- Per favorire la circolazione della moneta
+	- Bilanciare i Crediti internazionali
+	- Aumenta il potere di acquisto delle monete estere
+		- Permette più esportazione delle produzioni americane
+	- Tuttavia rischia di accrescere notevolmente l'inflazione
+- Vengono tassati fortemente gli importi esteri
+- Viene fermato il [[Piano Dawes]]
+	- Richiesta dei crediti prestati dalle banche Americane
+- La Gran Bretagna lascia il [[Gold Standard]]
+	- Per favorire mercati nelle colonie
+- La Francia mantiene il [[Gold Standard]] con una **Politica Deflazionistica**
+- In Italia [[Mussolini]] incomincia una politica Autarchica
+- La Germania non può attuare politiche Deflazionistiche
+	- Tuttavia tenta e ne esce economicamente distrutta
+- [[Conferenza di Losanna]] nel 1932
+- [[Roosevelt]] inizializza il [[New Deal]]
+	- Ispirato da John Maynard Keynes
+		- Non collaborò mai apertamente con [[Roosevelt]]
+		- Si oppose fortemente a John Smith

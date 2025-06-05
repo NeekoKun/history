@@ -1,0 +1,2 @@
+- Conferenza tra Stalin, Roosevelt e Wilson
+- Roosevelt accetta di aprire un secondo fronte in Normandia (Progetto Overlord)

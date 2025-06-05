@@ -1,0 +1,1 @@
+- Federazione Italiana degli Operai Metalmeccanici

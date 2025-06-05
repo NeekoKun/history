@@ -4,31 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "601e9f6be46f4091",
+        "id": "5370d1a2c9388426",
         "type": "tabs",
         "children": [
           {
-            "id": "254edbb7b4b65476",
+            "id": "155cef7ec8f8ed21",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Europa Post-Napoleone/Moti anni '20-'21.md",
-                "mode": "source",
+                "file": "Percorso di Quinta.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Percorso di Quinta"
             }
           },
           {
-            "id": "eb8649ced499ad88",
+            "id": "84ef5aa6ca1f2409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Europa Post-Napoleone/Società Segrete.md",
+                "file": "Belle Epoque/Giolitti.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Giolitti"
             }
           }
         ],
@@ -51,8 +57,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +76,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,14 +86,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 248.5
   },
   "right": {
     "id": "e7c75f2e99473d83",
@@ -98,15 +111,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Europa Post-Napoleone/Società Segrete.md",
-                "collapseAll": false,
+                "file": "Belle Epoque/Giolitti.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Giolitti"
             }
           },
           {
@@ -115,10 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Europa Post-Napoleone/Società Segrete.md",
+                "file": "Prima Guerra Mondiale/Attentato di Sarajevo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Attentato di Sarajevo"
             }
           },
           {
@@ -129,7 +146,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Europa Post-Napoleone/Società Segrete.md"
-              }
+                "file": "Prima Guerra Mondiale/Attentato di Sarajevo.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Attentato di Sarajevo"
             }
           },
           {
@@ -151,15 +172,16 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,35 +194,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd2451a5e4a5bd38",
+  "active": "84ef5aa6ca1f2409",
   "lastOpenFiles": [
-    "Europa Post-Napoleone/1848.md",
-    "Europa Post-Napoleone/Moti anni '20-'21.md",
-    "Europa Post-Napoleone/Moti anni '30-'31.md",
-    "Europa Post-Napoleone/Socialisti.md",
-    "Europa Post-Napoleone/Società Segrete.md",
-    "Europa Post-Napoleone/Politica.md",
-    "Europa Post-Napoleone/Liberali Democratici.md",
-    "Europa Post-Napoleone/Concerto Europeo.md",
-    "Europa Post-Napoleone/PSI.md",
-    "Rivoluzione Industriale Inglese/Luddismo.md",
-    "Rivoluzione Industriale Inglese/Inghilterra - XVIII Secolo.md",
-    "Rivoluzione Industriale Inglese/Secondo Periodo.md",
-    "Rivoluzione Industriale Inglese/Primo Periodo.md",
-    "Regno di Francia/Timeline.md",
+    "まで Seconda Guerra Mondiale/Trattati della Seconda Guerra Mondiale.md",
+    "まで Seconda Guerra Mondiale/Conferenza di Yalta.md",
+    "まで Seconda Guerra Mondiale/Conferenza di Teran.md",
+    "Percorso di Quinta.md",
+    "Belle Epoque/Giolitti.md",
+    "Prima Guerra Mondiale/Conferenza di Versailles.md",
+    "まで Seconda Guerra Mondiale/Fascismo.md",
+    "Prima Guerra Mondiale/WW1 - Eventi.md",
+    "まで Seconda Guerra Mondiale/Guerra d'Etiopia.md",
+    "まで Seconda Guerra Mondiale/Fasci di Combattimento.md",
+    "まで Seconda Guerra Mondiale/Dalla WWI alla WWII.md",
+    "まで Seconda Guerra Mondiale/PNF.md",
+    "Belle Epoque/Nazionalismi.md",
+    "Prima Guerra Mondiale/Trattato di Rapallo.md",
+    "Prima Guerra Mondiale/FIOM.md",
+    "Belle Epoque/Belle Epoque.md",
+    "Prima Guerra Mondiale/Attentato di Sarajevo.md",
+    "まで Seconda Guerra Mondiale/America libera l'Italia.md",
+    "Belle Epoque/Giolitti - Timeline.md",
+    "まで Seconda Guerra Mondiale/WW2 - Timeline.md",
+    "Seconda Guerra Mondiale.md",
+    "Belle Epoque/Giovanni Giolitti.md",
+    "まで Seconda Guerra Mondiale/Riforma Scolastica.md",
+    "まで Seconda Guerra Mondiale/PPI.md",
+    "まで Seconda Guerra Mondiale/OVRA.md",
+    "まで Seconda Guerra Mondiale/OND.md",
+    "まで Seconda Guerra Mondiale",
+    "Belle Epoque",
+    "Prima Guerra Mondiale",
     "Europa Post-Napoleone",
-    "Regno di Francia/Costituzione.md",
-    "Regno di Francia/Giacobini.md",
-    "Regno di Francia/Cordiglieri.md",
-    "Regno di Francia/Marat.md",
-    "Regno di Francia/Danton.md",
-    "Regno di Francia/Dichiarazione dei Diritti dell'Uomo e del Cittadino.md",
-    "Regno di Francia/Club.md",
-    "Regno di Francia/Codice Civile.md",
-    "Regno di Francia/Calendario Francese.md",
-    "Regno di Francia/Barras.md",
-    "Regno di Francia/Direttorio.md",
-    "Regno di Francia/Campagna d'Italia.md",
     "Regno di Francia",
     "Rivoluzione Americana",
     "Rivoluzione Industriale Inglese"
