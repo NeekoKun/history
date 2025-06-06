@@ -53,8 +53,12 @@
 + In seguito al Big Crash del '29, si verifica una radcalizzazione dei partiti tedeschi.<br>Sale Brunin come cancelliere ed il [[Nazismo|Partito Nazista]] ottiene la maggioranza
 
 + 23 Maggio 1933
-+ Dittatura Tedesca
-+ Hitler richiede pieno potere, e forma una dittatura una volta ottenutolo "legalmente"
++ Hitler Cancelliere
++ Hitler viene eletto Cancelliere della Germania, ottenendo quindi il potere per votazione
+
++ 3 Agosto 1934
++ Hitler Fuhrer
++ Alla morte del presidente *von Hindenburg*, Hitler si nomina per legge Fuhrer del Terzo Reich
 
 + 1935 - 1936
 + [[Guerra d'Etiopia]]

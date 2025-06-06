@@ -41,8 +41,8 @@
 + Milano e Genova si liberano grazie agli sforzi dei partigiano concittadini
 
 + 26 Aprile 1945
-+ Liberazione di Torinp
-+ 
++ Liberazione di Torino
++ Torino viene liberata dai partigiani italiani
 
 + 
 + Cattura di Mussolini
